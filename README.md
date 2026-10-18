@@ -5,6 +5,7 @@
 - **Target URL:** [http://sams.edu.eg/en/](http://sams.edu.eg/en/)
 - **Scope:** Single Homepage Usability Audit & Interactive Redesign
 - **Tooling:** Figma (Interactive Prototype)
+- **Output Design:** [figma.com/design/...](https://www.figma.com/design/lTAbO4utvLwFdV70KGRfLq/SAMS.EDU.EG-Rework?node-id=0-1&t=tXFgy9787tAKyrn9-1)
 
 ---
 
